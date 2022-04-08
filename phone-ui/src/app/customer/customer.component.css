@@ -1,0 +1,16 @@
+.customer-phone {
+  display: grid;
+  width: 90%;
+  padding: 2rem;
+  margin: 0 auto;
+}
+
+.customer-phone form {
+  width: 100%;
+  display: flex;
+}
+
+.customer-phone mat-form-field  {
+  flex: 1;
+  padding: 0 2rem;
+}
